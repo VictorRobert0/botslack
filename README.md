@@ -86,6 +86,6 @@ Substitua `app.py` pelo nome do seu arquivo Python, se for diferente.
 
 ---
 
-## Criado por Victor Roberto
+## Criado por Victor Roberto & Alan Henrique
 
 Sinta-se à vontade para contribuir com o projeto. Se encontrar problemas ou tiver sugestões de melhorias.
